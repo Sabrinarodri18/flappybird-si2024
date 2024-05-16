@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: da3c094a698fd4048a015d75cc0ea0b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 851
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6cd1143e8d144e9b5318014d42432
+      internalID: -933529328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 851
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb61c42e66c3c419c9e053ff2d229f
+      internalID: 1686976106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 843
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0de6c5481ce84cb283253e7ddf13f
+      internalID: -328693031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 847
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1456ca45837684e967b34f542d6e43
+      internalID: 2102790786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_4
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 851
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66cfd2205030c14994c2b19a1248807
+      internalID: 678661883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 850
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1bc1a3f08a5974b898914467456885
+      internalID: -1258326903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 851
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b841c91f8e33244ad8dff4d231b709
+      internalID: -550661467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 669
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9508d067581bae5449d6471d63921dd5
+      internalID: -539652558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 657
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c61038787097a44ab5e2c727d32722
+      internalID: -1222971939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 662
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1289e5c406b59064687b2c43e6869eb6
+      internalID: -1617270067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 662
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c0934393b46034399e2add72472607
+      internalID: 1198393716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 663
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd71b61ec75d3478cff2260c255289
+      internalID: 1093295008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_12
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 664
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd2b948b730aa43b7577ace2d60786
+      internalID: 799004235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 661
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e1a313583a95408c05ada3c6eb1cc
+      internalID: 298907235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 477
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9c249f7505164c83e09d8f88939a2
+      internalID: 1231255595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 473
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b24e1be495f3642b521642edb82c33
+      internalID: -1940372508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 473
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931e3c1b342d5348b4965914a9003a7
+      internalID: -471490515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 496
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6df558584f92442ac48bbf8141e166
+      internalID: 1068660843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_18
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 483
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd2c8181ba523419c54d89e3fbb8dd
+      internalID: 957108793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 483
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c15a74e9789344aa3ad4bebae79d8
+      internalID: -636935824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_20
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 495
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6aa47bf892d204eb030fa83401b029
+      internalID: -621924415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_21
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024426f6151a6044282e2dfd6836816c
+      internalID: -1950428363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_22
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 416
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa5651db93db148a88a5b1242b6473
+      internalID: 1448310609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 321
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b19960ef42334b84cb78d7a10efef
+      internalID: -1604513362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 318
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388cf17cb60c4c4e9f56fc56d3ad44f
+      internalID: 750673566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 318
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafdc02a1a15bf8479686181a4310585
+      internalID: -910183449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 327
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d629bc1a5dbb4089fdf3611346658
+      internalID: 468929130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 324
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce38d376944ea042baccdb740f938a2
+      internalID: -1789330810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 290
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b181dea1aa724de4f9fc3dd5cd1da834
+      internalID: 1815895242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_29
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 336
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215cfb31a482d81449b4d1c68a70cdea
+      internalID: -2082208372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_30
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 299
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2fa4ac55c858e4dab282a3610eadf4
+      internalID: -2090861232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_31
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 298
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080fe960eaf7721419609b8be894a241
+      internalID: -294654187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 315
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4b5cea515e3344b48aadd81fd089d
+      internalID: 1895617483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_33
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 315
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3742c2c9557e479f13c03a4beed50
+      internalID: -1465796888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176a7e1a04261f44bf7a1a47cad74e2
+      internalID: -1597323441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 117
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e7bd3661a3f04ebf466a66f8d7034
+      internalID: -1119788996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 119
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20834f6fd656c6642b098fa24ef6b3d4
+      internalID: 1134797185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_37
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 192
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02ac4dda4b803443a62054163aa51fb
+      internalID: 324242956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_38
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 117
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e8fdb245e6604db35c1882ddbb3ac
+      internalID: -1667901968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 117
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3250fe3cf857d4d9a39e5ea12dfb51
+      internalID: 315380581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_40
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 122
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024180886515c3439b5efa32205ee72
+      internalID: -1423495211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-flying-mario-moves-art_DEMO_41
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf680d4a96a6634e9f641ce225e7a5b
+      internalID: -584606809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-flying-mario-moves-art_DEMO_0: -933529328
+      set-flying-mario-moves-art_DEMO_1: 1686976106
+      set-flying-mario-moves-art_DEMO_10: 1198393716
+      set-flying-mario-moves-art_DEMO_11: 1093295008
+      set-flying-mario-moves-art_DEMO_12: 799004235
+      set-flying-mario-moves-art_DEMO_13: 298907235
+      set-flying-mario-moves-art_DEMO_14: 1231255595
+      set-flying-mario-moves-art_DEMO_15: -1940372508
+      set-flying-mario-moves-art_DEMO_16: -471490515
+      set-flying-mario-moves-art_DEMO_17: 1068660843
+      set-flying-mario-moves-art_DEMO_18: 957108793
+      set-flying-mario-moves-art_DEMO_19: -636935824
+      set-flying-mario-moves-art_DEMO_2: -328693031
+      set-flying-mario-moves-art_DEMO_20: -621924415
+      set-flying-mario-moves-art_DEMO_21: -1950428363
+      set-flying-mario-moves-art_DEMO_22: 1448310609
+      set-flying-mario-moves-art_DEMO_23: -1604513362
+      set-flying-mario-moves-art_DEMO_24: 750673566
+      set-flying-mario-moves-art_DEMO_25: -910183449
+      set-flying-mario-moves-art_DEMO_26: 468929130
+      set-flying-mario-moves-art_DEMO_27: -1789330810
+      set-flying-mario-moves-art_DEMO_28: 1815895242
+      set-flying-mario-moves-art_DEMO_29: -2082208372
+      set-flying-mario-moves-art_DEMO_3: 2102790786
+      set-flying-mario-moves-art_DEMO_30: -2090861232
+      set-flying-mario-moves-art_DEMO_31: -294654187
+      set-flying-mario-moves-art_DEMO_32: 1895617483
+      set-flying-mario-moves-art_DEMO_33: -1465796888
+      set-flying-mario-moves-art_DEMO_34: -1597323441
+      set-flying-mario-moves-art_DEMO_35: -1119788996
+      set-flying-mario-moves-art_DEMO_36: 1134797185
+      set-flying-mario-moves-art_DEMO_37: 324242956
+      set-flying-mario-moves-art_DEMO_38: -1667901968
+      set-flying-mario-moves-art_DEMO_39: 315380581
+      set-flying-mario-moves-art_DEMO_4: 678661883
+      set-flying-mario-moves-art_DEMO_40: -1423495211
+      set-flying-mario-moves-art_DEMO_41: -584606809
+      set-flying-mario-moves-art_DEMO_5: -1258326903
+      set-flying-mario-moves-art_DEMO_6: -550661467
+      set-flying-mario-moves-art_DEMO_7: -539652558
+      set-flying-mario-moves-art_DEMO_8: -1222971939
+      set-flying-mario-moves-art_DEMO_9: -1617270067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
